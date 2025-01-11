@@ -1,0 +1,5 @@
+{
+  "WebDriverPath": "C:\\Users\\USER\\Downloads\\chromedriver-win64\\chromedriver-win64",
+  "MaxWaitTime": 30,
+  "ScreenshotDirectory": "C:\\Users\\USER\\Downloads\\ScreenShots"
+}
